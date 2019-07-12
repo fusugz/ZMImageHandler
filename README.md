@@ -1,0 +1,2 @@
+# ZMImageHandler
+Image handler categories
